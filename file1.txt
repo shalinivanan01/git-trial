@@ -1,2 +1,3 @@
 commit from branch1
 adding few lines
+-- chenges from brnanch 2 for example of git merge conflict
